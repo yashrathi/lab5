@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "gcm-test1-1289",
+    "project_number": "813916479990",
+    "name": "gcm-test1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813916479990:android:40bd9973174263d2",
+        "client_id": "android:com.example.agneev.gcm_test",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.agneev.gcm_test",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
