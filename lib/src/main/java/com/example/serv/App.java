@@ -11,6 +11,7 @@ public class App {
         System.out.println("Sending POST to GCM");
 
         String apiKey = "AIzaSyA6Z9og6DYdBIg5-jZpxaKBDz7K3SaOlRk";
+
         Content content = createContent();
 
         Post2Gcm.post(apiKey, content);
